@@ -1,0 +1,29 @@
+{
+  "name": "cyberlite",
+  "displayName": "Cyberlite",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "icon": "icons/icon.png",
+        "author": "ACO-626",
+        "label": "Cyberlite",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyberlite-color-theme.json"        
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/ACO-626/Cyberlite-Visual-Studio-Code-Theme.git",
+    "type": "git"
+  },
+  "publisher": "ACO-626-theme"
+  
+}
